@@ -19,7 +19,7 @@ lmain.place(x = 10, y = 110)
 
 modelid = "CompVis/stable-diffusion-v1-4"
 device = "cuda" if torch.cuda.is_available() else "cpu"
-pipe = StableDiffusionPipeline.from_pretrained(modelid, revision = "fp16", torch_dtype = torch.float16, auth_token = "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")
+pipe = StableDiffusionPipeline.from_pretrained(modelid, revision = "fp16", torch_dtype = torch.float16, auth_token = "Put the stable diffusion token id here")
 pipe.to(device)
 
 

@@ -1,6 +1,4 @@
-# Text_To_Image
-
-# Text-to-Image Generator using Python Tkinter and Stable Diffusion
+# Text To Image Generator
 
 This project is a **Text-to-Image Generator** application built using Python's `Tkinter` for the graphical user interface (GUI) and the **Stable Diffusion** model for generating images from text. The app allows users to enter a description, click a button, and generate a corresponding image.
 
@@ -53,4 +51,4 @@ To run this project, you will need:
 3. The generated image will be displayed in the app window.
 4. You can save the image by clicking the "Save" button.
 
-
+Happy Reading :)

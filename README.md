@@ -11,6 +11,15 @@ This project is a **Text-to-Image Generator** application built using Python's `
 ## Prerequisites
 To run this project, you will need:
 - **Python 3.7+**
+- Create a virtual environment by using this command,
+  
+   ```bash
+    python -m venv venv
+    ```
+  ```bash
+    venv\Scripts\activate
+    ```
+
 - Access to a Stable Diffusion API or local model (e.g., via Hugging Face, OpenAI, or another service)
 - The following Python libraries:
   - `Tkinter`
@@ -18,6 +27,8 @@ To run this project, you will need:
   - `requests` (if using an API for Stable Diffusion)
   - `torch` (if using a local model)
   - `transformers` (for handling Stable Diffusion model)
+
+- Download `cuda` for fast execution, if not using cuda change the torch_dtype to fp32 to run in cpu
 
 ## Installation
 

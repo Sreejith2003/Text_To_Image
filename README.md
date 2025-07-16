@@ -62,4 +62,11 @@ To run this project, you will need:
 3. The generated image will be displayed in the app window.
 4. You can save the image by clicking the "Save" button.
 
-Happy Reading :)
+## Images
+
+<img width="538" height="660" alt="shot1" src="https://github.com/user-attachments/assets/fb78ce83-082d-432e-8357-8a986c5ea48d" />
+<img width="537" height="671" alt="shot3" src="https://github.com/user-attachments/assets/53ebf118-442a-4ad6-9593-ab5285504d57" />
+
+
+
+
